@@ -7,3 +7,6 @@ venv
 
 # lectures slides
 lectures
+
+# notebooks checkpoints
+*.ipynb_checkpoints
